@@ -1,5 +1,5 @@
 # 👋🏼 About Me:
-📚 I'm currently learning Blockchain.<br>💬 Ask me anything about Flutter.<br>⚡️ Fun Fact: I'm always listening to music.
+📚 I'm currently learning how Data works.<br>💬 Ask me anything about Flutter.<br>⚡️ Fun Fact: I'm always listening to music(while coding).
 
 
 # 🤝 Socials:
