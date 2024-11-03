@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/shubhranshu-arya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="shubhranshuarya.com" target="_blank">
+  <a href="https://shubhranshuarya.framer.ai/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
   <a href="https://x.com/shubhranshuarya" target="_blank">
@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-Hello there! I'm **Shubhranshu Arya**, a software developer driven by an insatiable curiosity and a passion for creating innovative solutions that make a real difference. My journey in technology began with a fascination for how software can solve complex problems and improve lives. Today, I am a seasoned developer who thrives in challenging environments, constantly pushing the boundaries of what's possible.
+Hi, I'm **Shubhranshu Arya** , a developer based in London, specializing in financial technology with a focus on AI-driven solutions. With a background in full-stack development and an MSc. in FinTech, I’m dedicated to leveraging advanced technology to create impactful solutions that address real-world challenges. I love learning about new technologies and enjoy finding creative ways to use what I’ve learned to make a positive difference.
 
 ---
 
@@ -76,11 +76,11 @@ Hello there! I'm **Shubhranshu Arya**, a software developer driven by an insatia
 
 ---
 
-## 🔬 Current Research
+## 🔬 Recent Research
 
-### Ensemble-based Genetic Algorithms with Deep Learning for Fraud Detection in Cryptocurrencies
+### Fraud Transaction Detection in Ethereum Network using Genetic Algorithm.
 
-My current research focuses on developing an advanced fraud detection system for cryptocurrency transactions. This project aims to combat the growing challenge of fraudulent activities in the rapidly evolving blockchain landscape.
+My current research focused on developing a fraud detection model for Ethereum transactions. This study/project aimed at combating the growing challenge of fraudulent activities in the rapidly evolving blockchain landscape.
 
 ---
 
